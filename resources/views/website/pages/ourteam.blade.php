@@ -790,6 +790,26 @@
                                 </div>
                             </div>
                         </div>
+                        {{-- Deepak --}}
+                        <div class="col-lg-3 col-md-6 mb-4">
+                            <div class="item">
+                                <div class="shadow-effect corebox flip rounded-3" style="background: white;">
+                                    <div class=" ">
+                                        <img class="img-circle rounded-3 img-fluid"
+                                            src="{{ asset('assets/websiteAssets/images/team/new/deepak.webp') }}"
+                                            alt="client">
+                                    </div>
+                                    <div class="authorbox rounded-3">
+                                        <div class="testimonial-name d-flex  text-white">
+                                            <div>
+                                                <div class="author">Mr. Deepak Nogia</div>
+                                                <div class="fs-6 ">Full Stack Developer</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>

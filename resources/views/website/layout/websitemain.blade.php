@@ -166,7 +166,7 @@
                                                 </li>
                                                 <li>
                                                     <a class="dropdown-item customdrodownitem {{ request()->routeIs('1_to_1_consultation') ? 'active' : '' }}"
-                                                        href="{{ route('1_to_1_consultation') }}">1 to 1 consultation</a>
+                                                        href="{{ route('1_to_1_consultation') }}">One to One Consultation</a>
                                                 </li>
                                                 <li>
                                                     <a class="dropdown-item customdrodownitem {{ request()->routeIs('googlebusinessprofile') ? 'active' : '' }}"
@@ -339,7 +339,7 @@
                                                     Marketing</a>
                                             </li>
                                             <li><a class="d-block py-2 px-3 {{ request()->routeIs('1_to_1_consultation') ? 'fw-bold text-primary' : '' }}"
-                                                    href="{{ route('1_to_1_consultation') }}">1_to_1_consultation</a>
+                                                    href="{{ route('1_to_1_consultation') }}">One to One Consultation</a>
                                             </li>
 
                                             <li><a class="d-block py-2 px-3 {{ request()->routeIs('googlebusinessprofile') ? 'fw-bold text-primary' : '' }}"
@@ -500,7 +500,7 @@
                                         </li>
                                         <li>
                                             <a class="{{ request()->routeIs('1_to_1_consultation') ? 'active' : '' }}"
-                                                href="{{ route('1_to_1_consultation') }}">1 to 1 consultation</a>
+                                                href="{{ route('1_to_1_consultation') }}">One to One Consultation</a>
                                         </li>
                                         <li>
                                             <a class="{{ request()->routeIs('googlebusinessprofile') ? 'active' : '' }}"
@@ -512,10 +512,6 @@
                                                 href="{{ route('erpservices') }}">ERP Services</a>
                                         </li>
                                     </ul>
-                                    <li>
-                                        <a class="{{ request()->routeIs('1_to_1_consultation') ? 'active' : '' }}"
-                                            href="{{ route('1_to_1_consultation') }}">1 to 1 consultation</a>
-                                    </li>
                                 </section>
                                 <!--// Single Widget -->
 
