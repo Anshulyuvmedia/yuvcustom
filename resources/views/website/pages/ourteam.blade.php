@@ -284,7 +284,7 @@
                 </div> --}}
 
                 {{-- Chhavi --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -301,7 +301,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Pranjal Vaishnav --}}
                 {{-- <div class="col-lg-3 col-md-6 mb-4">
@@ -331,7 +331,7 @@
                 </div> --}}
 
                 {{-- Gaurav Agarwal --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3"
                             style="
@@ -351,7 +351,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
                 {{-- Rashi Sharma --}}
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
@@ -447,7 +447,7 @@
                 </div>
 
                 {{-- Leera ma'am --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -464,10 +464,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Parul --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -486,7 +486,7 @@
                         </div>
 
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Ms. Ayushi Sharma --}}
                 <div class="col-lg-3 col-md-6 mb-4">

@@ -390,7 +390,7 @@ class EmailController extends Controller
     public function one_to_one_service(Request $request)
     {
         try {
-          
+
             // Validate form inputs
             $request->validate([
                 'username' => 'required|string|max:255',
@@ -427,16 +427,16 @@ class EmailController extends Controller
                 'business' => $request->input('business'),
                 'Industry' => $request->input('Industry'),
                 'Budget' => $request->input('Budget'),
-            ]; 
+            ];
             //   dd($details);
 
             // Define recipient emails
-            // $toEmail = ['hr@yuvmedia.com'];
-            $toEmail = ['deepaknogia.yuvmedia@gmail.com'];
+            $toEmail = ['hr@yuvmedia.com'];
+            // $toEmail = ['deepaknogia.yuvmedia@gmail.com'];
             $subject = "One To One Consultation";
 
             // Send emails
-            Mail::to($toEmail)->send(new Oentoone($toEmail, $subject,$details));
+            Mail::to($toEmail)->send(new Oentoone($toEmail, $subject, $details));
             Mail::to($request->input('email'))->send(new ManagingPartnerThankYouMail());
 
             // Log submission
