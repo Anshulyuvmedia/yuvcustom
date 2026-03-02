@@ -50,6 +50,10 @@ class WebsiteViews extends Controller
     {
         return view('website.pages.privacypolicy');
     }
+    public function refundpolicy()
+    {
+        return view('website.pages.refundpolicy');
+    }
     public function termsservices()
     {
         return view('website.pages.terms&service');

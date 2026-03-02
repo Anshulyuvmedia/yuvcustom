@@ -3567,7 +3567,7 @@ Meeting <i class="bi bi-arrow-right"></i></a>
         })
     </script>
 
-    <script>
+    {{-- <script>
         /* =========================================
         FIREWORKS DATA (the main show)
     ========================================= */
@@ -4993,6 +4993,6 @@ Meeting <i class="bi bi-arrow-right"></i></a>
             startRandomFireworks();
             startMainFireworkShow();
         });
-    </script>
+    </script> --}}
 
 @endsection

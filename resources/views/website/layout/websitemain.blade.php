@@ -164,7 +164,7 @@
                             <div class="verticalflip">
 
                                 <span> <img src="{{ asset('assets/websiteAssets/images/logo.png') }}" alt="Logo"></span>
-                                <span> <img src="{{ asset('assets/websiteAssets/images/logo_hd.png') }}" alt="Logo"></span>
+                                <span> <img src="{{ asset('assets/websiteAssets/images/happy_holi.png') }}" alt="Logo" width="150" style="margin-top: 10px"></span>
                                 <span> <img src="{{ asset('assets/websiteAssets/images/logo.png') }}" alt="Logo"></span>
                                 
                             </div>
@@ -529,6 +529,10 @@
                                 <li>
                                     <a class="{{ request()->routeIs('privacypolicy') ? 'active' : '' }}"
                                         href="{{ route('privacypolicy') }}">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a class="{{ request()->routeIs('refundpolicy') ? 'active' : '' }}"
+                                        href="{{ route('refundpolicy') }}">Refund Policy</a>
                                 </li>
                                 <li>
                                     <a class="{{ request()->routeIs('termsservices') ? 'active' : '' }}"

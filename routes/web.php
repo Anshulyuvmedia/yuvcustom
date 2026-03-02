@@ -121,6 +121,7 @@ Route::controller(WebsiteViews::class)->group(function () {
     Route::get('/features', 'features')->name('features');
     Route::get('/services', 'services')->name('services');
     Route::get('/privacypolicy', 'privacypolicy')->name('privacypolicy');
+    Route::get('/refundpolicy', 'refundpolicy')->name('refundpolicy');
     Route::get('/terms-services', 'termsservices')->name('termsservices');
     Route::get('/whatsapp-marketing', 'whatsappmarketing')->name('whatsappmarketing');
     Route::get('/google-business-profile', 'googlebusinessprofile')->name('googlebusinessprofile');

@@ -284,7 +284,7 @@
                 </div> --}}
 
                 {{-- Chhavi --}}
-                {{-- <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -301,7 +301,7 @@
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
                 {{-- Pranjal Vaishnav --}}
                 {{-- <div class="col-lg-3 col-md-6 mb-4">
@@ -376,7 +376,7 @@
                 </div>
 
                 {{-- Prateek --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -394,7 +394,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
 
             {{-- Marketing team --}}
@@ -566,7 +566,7 @@
                 </div>
 
                 {{-- Rudraksh sir --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -584,10 +584,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Dipanshu --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3" style="background: white;">
                             <div class=" ">
@@ -605,10 +605,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Shakti --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3">
                             <div class=" ">
@@ -625,7 +625,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
                 {{-- Raghuveer --}}
                 <!--<div class="col-lg-3 col-md-6 mb-4">-->
@@ -673,7 +673,7 @@
                 </div>
 
                 {{-- Jayesh Kumawat --}}
-                <div class="col-lg-3 col-md-6 mb-4">
+                {{-- <div class="col-lg-3 col-md-6 mb-4">
                     <div class="item">
                         <div class="shadow-effect corebox flip rounded-3"
                             style="
@@ -695,7 +695,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
 
             </div>
